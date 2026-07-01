@@ -12,5 +12,7 @@ Today I bring you a simple little Asteroids clone that I wrote in C++ with the h
 
 ## Gameplay Controls
 Left and right arrow keys - Turn the ship
+
 Up arrow key - Accelerate the ship
+
 Spacebar - Fire bullets
