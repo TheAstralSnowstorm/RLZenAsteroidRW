@@ -9,3 +9,8 @@ Hello everybody! This is my first GitHub repository and I'm taking this opportun
 As part of my interest in improvement, I do intend to submit this repository for The Cherno's **Code Review** video series at some point.
 
 Today I bring you a simple little Asteroids clone that I wrote in C++ with the help of raylib.
+
+## Gameplay Controls
+Left and right arrow keys - Turn the ship
+Up arrow key - Accelerate the ship
+Spacebar - Fire bullets
